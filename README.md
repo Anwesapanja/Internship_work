@@ -2,10 +2,16 @@
 📊 Data Analysis Internship Project – Cognifyz Technologies
 This repository showcases the work completed during my Data Analysis Internship at Cognifyz Technologies, a company specializing in AI, machine learning, and advanced data analytics. The internship provided a comprehensive, multi-level experience in analyzing real-world datasets to uncover actionable insights using Power BI and Python.
 
-🧠 Project Overview
+
+
+🧠 Project Overview:-------
+------------------------------------
 The tasks were divided across three levels (Level 1, Level 2, and Level 3), each containing problem statements that reflect practical business scenarios in the food and restaurant industry. These tasks aimed to strengthen my analytical thinking, visualization skills, and ability to derive meaningful conclusions from data.
 
-🔍 Key Tasks Completed
+
+
+🔍 Key Tasks Completed:--------------
+-------------------------------------------
 Level 1: Foundational Data Analysis
 
 Identified the top cuisines by frequency and calculated their percentage share.
@@ -30,14 +36,19 @@ Identified restaurants with the highest and lowest votes and examined the correl
 
 Analyzed how price range relates to services like online delivery and table booking.
 
-🛠 Tools & Technologies Used
+
+
+🛠 Tools & Technologies Used:--------
+-----------------------------------
 Power BI Desktop for interactive dashboards and visual analysis.
 
 Python (Pandas, NumPy) for basic data handling and preprocessing.
 
 Data visualization techniques including histograms, bar charts, scatter plots, and maps.
 
-📈 Outcome
+
+📈 Outcome:----
+----------------------
 This internship allowed me to:
 
 Build end-to-end data analysis pipelines
